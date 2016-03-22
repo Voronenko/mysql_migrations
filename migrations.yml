@@ -1,0 +1,6 @@
+name: YOURAPP DB migrations
+migrations_namespace: DBMigrations
+table_name: x_database_version
+migrations_directory: ./migrations
+mapping_types:
+    enum: string
